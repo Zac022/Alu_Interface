@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5AADE6D8-9B71-3D0F-483B-2FB75D42246C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InterfaceTestScript.cs">
+    <Files>
+      <File FileName="Assets/InterfaceTestScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alu_interface" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="InterfaceTestScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a532ce9b-1740-4d11-a303-ca45f2cda8e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
